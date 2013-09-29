@@ -1,6 +1,8 @@
 javascript-oop-class-example
 ==============================
 
+'''
+
 ClassName.PUBLIC_STATIC_CONST = "public-static-const";
 ClassName.publicStaticVariable = "public-static-variable";
 ClassName.publicStaticFunction = function($options){ 
@@ -48,4 +50,5 @@ alert(ClassName.publicStaticFunction());
 var className = new ClassName();
 alert(className.publicVariable);
 alert(className.publicFunction());
-	
+
+'''
